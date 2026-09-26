@@ -2,7 +2,7 @@
 
 ### Data Scientist | Machine Learning | AI
 
-I'm a Data Scientist with an **M.S. in Data Science from Indiana University Bloomington** and a background in **Computer Science & Information Engineering**.
+I'm a Data Scientist with an **M.S. in Data Science from Indiana University Bloomington** and a **B.S. in Computer Science & Information Engineering from Taiwan-Paraguay Polytechnic University**.
 
 I build data-driven and AI solutions across the full lifecycle — from **data processing and predictive modeling to machine learning pipelines, APIs, and AI-powered applications**.
 
@@ -63,4 +63,4 @@ Automated data workflows and ML pipelines using Python, SQL, Airflow, Spark, and
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/ingrid-morinigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ingrid-morinigo)
