@@ -6,7 +6,7 @@ I'm a Data Scientist with an **M.S. in Data Science from Indiana University Bloo
 
 I build data-driven and AI solutions across the full lifecycle — from **data processing and predictive modeling to machine learning pipelines, APIs, and AI-powered applications**.
 
-My experience includes applying machine learning to real-world business and financial problems, building data pipelines, deploying predictive models, and developing solutions with **Generative AI, NLP, and Computer Vision**.
+💡 My experience includes applying machine learning to real-world business and financial problems, building data pipelines, deploying predictive models, and developing solutions with **Generative AI, NLP, and Computer Vision**.
 
 ---
 
