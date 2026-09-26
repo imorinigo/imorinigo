@@ -56,8 +56,8 @@ Automated data workflows and ML pipelines using Python, SQL, Airflow, Spark, and
 
 - 🎓 **M.S. in Data Science** — Indiana University Bloomington
 - 💻 **B.S. in Computer Science & Information Engineering** — Taiwan-Paraguay Polytechnic University
-- 🏦 Professional experience in **Data Science, Machine Learning, Data Analytics, and financial applications**
-- 🌎 Interested in **Data Scientist, Machine Learning Engineer, and AI Engineer** opportunities
+- 🏦 +2 years of Professional experience in **Data Science, Machine Learning, Data Analytics, and financial applications**
+- 🌎 Open to **Data Scientist, Machine Learning Engineer, and AI Engineer** opportunities — **remote across LATAM or based in Paraguay**
 
 ---
 
